@@ -1,8 +1,8 @@
 # 《人月神话》中文翻译
 
-[![CI](https://github.com/Cactus-proj/The-Mythical-Man-Month-zh/actions/workflows/CI.yml/badge.svg)](https://github.com/Cactus-proj/The-Mythical-Man-Month-zh/actions/workflows/CI.yml)
+[![CI](https://github.com/dr-birdkiwi/The-Mythical-Man-Month-zh/actions/workflows/CI.yml/badge.svg)](https://github.com/dr-birdkiwi/The-Mythical-Man-Month-zh/actions/workflows/CI.yml)
 
-在线阅读： https://cactus-proj.github.io/The-Mythical-Man-Month-zh/
+在线阅读： https://dr-birdkiwi.github.io/The-Mythical-Man-Month-zh/
 
 
 ## 目录
@@ -38,7 +38,7 @@
 [vitepress]: https://vitepress.dev/zh/
 
 ```sh
-git clone hhttps://github.com/Cactus-proj/The-Mythical-Man-Month-zh.git
+git clone https://github.com/dr-birdkiwi/The-Mythical-Man-Month-zh.git
 cd The-Mythical-Man-Month-zh/
 npm install         # 安装 VitePress
 npm run docs:dev    # 编译并打开网页预览

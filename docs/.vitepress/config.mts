@@ -54,7 +54,7 @@ export default defineConfig({
       provider: 'local'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Cactus-proj/The-Mythical-Man-Month-zh' }
+      { icon: 'github', link: 'https://github.com/dr-birdkiwi/The-Mythical-Man-Month-zh' }
     ],
 
     editLink: {
