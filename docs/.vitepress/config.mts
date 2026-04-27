@@ -42,7 +42,7 @@ export default defineConfig({
           { text: '第 13 章 整体部分', link: '/ch13' },
           { text: '第 14 章 祸起萧墙', link: '/ch14' },
           { text: '第 15 章 另外一面', link: '/ch15' },
-          { text: '第 16 章 没有银弹－软件工程中的根本和次要问题', link: '/ch16' },
+          { text: '第 16 章 没有银弹——软件工程中的根本和次要问题', link: '/ch16' },
           { text: '第 17 章 再论《没有银弹》', link: '/ch17' },
           { text: '第 18 章 《人月神话》的观点：是或非？', link: '/ch18' },
           { text: '第 19 章 20 年后的人月神话', link: '/ch19' },
